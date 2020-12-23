@@ -16,7 +16,7 @@ getgenv().ValiantAimHacks = {
     VisibleCheck = true,
     TeamCheck = true,
     FOV = 25,
-    HitChance = 200,
+    HitChance = 100,
     Selected = LocalPlayer,
     BlacklistedTeams = {
         {
